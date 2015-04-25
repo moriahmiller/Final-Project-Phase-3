@@ -1,0 +1,207 @@
+html, body, nav, section, div, img, ul {
+	margin: auto 0;
+	padding: 0;
+	font-family: "helvetica", sans-serif;
+}
+
+.content {
+	font-size: 10em;
+	max-width: 20%;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+#nav-links-list {
+	float: right;
+	margin: 5%;
+}
+
+#nav-links-list>li{
+	list-style-type: none;
+	float: left;
+	padding-left: 15%;
+	padding-top: 10%;
+	padding-bottom: 10%;
+	font-size: 1em;
+}
+
+#nav-links-list>li>a{
+	text-decoration: none;
+	color: #a62915;
+}
+
+.title>li{
+	list-style-type: none;
+	float: left;
+	padding-top: 20%;
+	font-size:15%;
+	color: #a62915;
+}
+
+.main-header {
+	position: center;
+}
+
+#section-one {
+	background-color: #a62915 ;
+	height: 50%;
+	padding-top: 10%;
+
+}
+
+#info-text {
+	float: left;
+	height: 30%;
+	width: 50%;
+	padding-left: 10%;
+	text-align: center;
+	padding-bottom: 10%;
+	padding-top: 10%;
+
+	
+}
+
+/*sectiontwo*/
+
+.section-two {
+	padding-bottom: 10%;
+	padding-top: 10%;
+	font-size: 15%;
+
+}
+
+#image-grid li{
+	float: left;
+	height: 50%;
+	width: 50%;
+	padding-top: 10%;
+	padding-left: 10%;
+
+
+}
+
+
+
+#left-side-text {
+	max-width: 50%;
+	float: left;
+}
+
+#left-side-big{
+	font-family: "Helvetica", sans-serif;
+	font-size: 38%;
+	font-weight: 700em;
+	padding-bottom: 10%;
+	padding-top: 15%;
+	list-style-type: none;
+}
+
+#left-side-medium {
+	font-family: "Helvetica", sans-serif;
+	font-size: 24%;
+	font-weight: 300em;
+	padding-bottom: 10%;
+	list-style-type: none;
+}
+
+#left-side-small {
+	font-family: "Helvetica", sans-serif;
+	font-size: 14%;
+	font-weight: 300em;
+	padding-bottom: 25%;
+	list-style-type: none;
+}
+
+#left-side-text>button {
+	width: 50%;
+	height: 20%;
+	background-color:#908c80;
+	border: none;
+	color: #FFFFFF;
+	font-size: 12%;
+	margin-top: 10%;
+	margin-bottom: 10%;
+	font-weight: 700em;
+	float: left;
+}
+
+
+#caption-title{
+	font-size: 18%;
+	font-weight: 700em;
+	padding-bottom: 10%;
+	padding-top: 10%;
+
+}
+#caption>p {
+	font-size: 18%;
+	font-weight: 300em;
+}
+
+
+
+
+/* Section Three*/
+
+#clearfix {
+	overflow: auto;
+}
+
+#section-three {
+	height: 10%;
+	background-color: #d03949;
+	margin-top: 10%;
+	margin-bottom: 10%;
+	list-style-image: 10%;
+
+}
+
+
+/* Section Four*/
+
+#section-four {
+	height: 40%;
+	background-color: #35454b;
+}
+#centered-text {
+	list-style-type: none;
+	text-align: right;
+	color: #fff;
+}
+
+#first-line {
+	font-family: "Helvetica", sans-serif;
+	font-size: 38%;
+	font-weight: 700em;
+	padding-top: 10%;
+}
+
+#second-line {
+	font-family: "Helvetica", sans-serif;
+	font-size: 20%;
+	font-weight: 200em;
+	padding-top: 10%;
+	padding-bottom: 10%;
+}
+
+#bottom-text>button {
+	height: 60%;
+	width: 50%;
+	background-color: #000;
+	border: none;
+	color: #fff;
+	font-size: 18%;
+	font-weight: 100em;
+	margin-top: 40%;
+
+}
+
+/* Section Five*/
+
+#section-five {
+	height: 5%;
+	background-color: #d03949;
+}
+
+
+
